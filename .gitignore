@@ -1,0 +1,7 @@
+*.swp
+*.bak
+*.log
+.DS_Store
+/blib/
+/Build/
+/t/tmp/
